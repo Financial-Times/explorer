@@ -12,7 +12,7 @@ The data explorer is an open source point-and-click interface for querying and v
   2. Add your Keen IO keys to demo/index.html
   3. `npm install`
   4. `npm -g install gulp` (if needed)
-  5. `gulp`
+  5. `gulp` or `export PORT=8512; gulp`
   6. Browse to [the demo](http://localhost:8081/explorer).
 
 ### 1. Get your project ID & API keys
