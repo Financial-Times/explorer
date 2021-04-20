@@ -20,7 +20,7 @@
     "reactify": "~0.15.1",
     "string": "^2.0.1",
     "stringify": "~3.0.0",
-    "superagent": "1.2.0"
+    "superagent": "1.8.5"
   },
   "browserify-shim": {
     "moment": "^2.7.0",
